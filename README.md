@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kgatliso Mkhwanazi
 - 👀 I’m interested in ... Software Engineering, Software Development, Game Design, Data Science and more.
-- 🌱 I’m currently learning ... SQL and Relational Databases 101 offered by IBM.
+- 🌱 I’m currently learning ... SQL and Relational Databases 101 offered by IBM and Machine Learning with Python.
 - 💞️ I’m looking to collaborate on ... Projects
 - 📫 How to reach me ... ace27mk@gmail.com
 
