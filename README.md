@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kgatliso Mkhwanazi
-- 👀 I’m interested in ... Data Science, Machine Learning, Software Development and more.
-- 🌱 I’m currently learning ... HashiCorp Certified Teraform Associate orffered by A Cloud Guru.
+- 👀 I’m interested in ... Software Development, Data Science, Machine Learning and more.
+- 🌱 I’m currently learning ... AZ-900 Azure Fundamentals orffered by A Cloud Guru.
 - 💞️ I’m looking to collaborate on ... Projects
 - 📫 How to reach me ... ace27mk@gmail.com
 
