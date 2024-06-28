@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kgatliso Mkhwanazi
-- 👀 I’m interested in ... Software Development, Data Science, Machine Learning and more.
-- 🌱 I’m currently learning ... Kafka, SOLID principles, Vue 3, Web API, .NET 6 API Using TDD and more.
+- 👀 I’m interested in ... Software Development, .NET, Blazor and more.
+- 🌱 I’m currently learning ... ASP.NET Core - SOLID and Clean Architecture, Vue js, Web API, Blazor and more.
 - 💞️ I’m looking to collaborate on ... Projects
 - 📫 How to reach me ... ace27mk@gmail.com
 
