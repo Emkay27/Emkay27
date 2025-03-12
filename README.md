@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kgatliso Mkhwanazi
-- 👀 I’m interested in ... Software Development, .NET, Blazor and more.
-- 🌱 I’m currently learning ... ASP.NET Core - SOLID and Clean Architecture, Vue js, Web API, Blazor and more.
+- 👀 I’m interested in ... Software Development, .NET, Java and more.
+- 🌱 I’m currently learning ... Spring Boot, Angular, AWS and more.
 - 💞️ I’m looking to collaborate on ... Projects
 - 📫 How to reach me ... ace27mk@gmail.com
 
